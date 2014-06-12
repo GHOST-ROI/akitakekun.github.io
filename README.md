@@ -1,8 +1,9 @@
-Skraay's Website
-================
+Akitake's Website
+=================
 
-A website I will use for the following:
+This website will be used for the following:
 
-- Posting some of my upcoming ComputerCraft projects.
-- Teaching myself how to maintain and code a proper website.
-- More..
+- To send to friends/subscribers as a hub to my projects, links, etc..
+- Posting my programming projects (ComputerCraft, Wiremod, Eventscripts, etc..)
+- Teaching myself how to maintain and code a proper website in HTML/CSS/JS.
+- And more..
